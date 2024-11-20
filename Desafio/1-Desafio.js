@@ -45,5 +45,5 @@ if (idade >= 18) {
 
     } else {
 
-    alert("Não pode tirar habilitação, idade minima 18 anos.")
+    alert("Não pode tirar habilitação, idade minima 18 anos.");
 };
